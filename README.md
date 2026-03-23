@@ -17,7 +17,7 @@ O sistema permite o gerenciamento de usuários via terminal.
 
 ## 🛠️ Tecnologias
 - Java
-- POO
+- Java utilizando Programação Orientada a Objetos (POO)
 - ArrayList
 
 ---
